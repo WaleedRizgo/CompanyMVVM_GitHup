@@ -1,0 +1,10 @@
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\CompanyMVVM.DTO.dll.config
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\CompanyMVVM.DTO.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\CompanyMVVM.DTO.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\EntityFramework.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\EntityFramework.xml
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\bin\Debug\de\EntityFramework.resources.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\obj\Debug\CompanyMVVM.DTO.csproj.CoreCompileInputs.cache
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\obj\Debug\CompanyMVVM.DTO.csproj.CopyComplete
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\obj\Debug\CompanyMVVM.DTO.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.DTO\obj\Debug\CompanyMVVM.DTO.pdb

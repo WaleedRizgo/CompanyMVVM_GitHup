@@ -1,0 +1,15 @@
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.ViewModel.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.ViewModel.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.Application.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.DTO.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\EntityFramework.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.Application.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.Application.dll.config
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.DTO.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\CompanyMVVM.DTO.dll.config
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\bin\Debug\EntityFramework.xml
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\obj\Debug\CompanyMVVM.ViewModel.csprojAssemblyReference.cache
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\obj\Debug\CompanyMVVM.ViewModel.csproj.CoreCompileInputs.cache
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\obj\Debug\CompanyMVVM.ViewModel.csproj.CopyComplete
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\obj\Debug\CompanyMVVM.ViewModel.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.ViewModel\obj\Debug\CompanyMVVM.ViewModel.pdb

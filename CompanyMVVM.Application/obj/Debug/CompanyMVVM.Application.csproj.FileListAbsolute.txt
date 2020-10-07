@@ -1,0 +1,15 @@
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.Application.dll.config
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.Application.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.Application.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.DTO.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\EntityFramework.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\EntityFramework.SqlServer.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.DTO.pdb
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\CompanyMVVM.DTO.dll.config
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\EntityFramework.xml
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\bin\Debug\EntityFramework.SqlServer.xml
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\obj\Debug\CompanyMVVM.Application.csprojAssemblyReference.cache
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\obj\Debug\CompanyMVVM.Application.csproj.CoreCompileInputs.cache
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\obj\Debug\CompanyMVVM.Application.csproj.CopyComplete
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\obj\Debug\CompanyMVVM.Application.dll
+Z:\CompanyMVVM\CompanyMVVM\CompanyMVVM.Application\obj\Debug\CompanyMVVM.Application.pdb
